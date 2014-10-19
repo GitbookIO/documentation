@@ -1,6 +1,6 @@
 # Pushing Content
 
-When your book is created on **gitbook.io**, you need to push some content to it.
+When your book is created on **Gitbook.io**, you need to push some content to it.
 
 ### Using the Editor
 

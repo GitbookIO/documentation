@@ -1,6 +1,8 @@
 # Themes
 
-Themes can be used to customize your book's homepage using predefined or custom HTML template.
+Themes can be used to customize your book's homepage using predefined or custom HTML template.  The recommended way to change your Gitbook theme is to use a plugin.  A plugin can be a whole theme in itself, or a customisation that is applied to the default theme.  You can use the [sample plugin for Gitbook](https://github.com/GitbookIO/plugin) as a starting point.
+
+There are also existing themes available as npm packages.  You can find those themes by [searching the npm website for gitbook-theme](https://www.npmjs.org/search?q=gitbook-theme).
 
 ### Predefined themes
 

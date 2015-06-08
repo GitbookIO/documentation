@@ -40,7 +40,7 @@ This looks up `myVariable` from the book variables and displays it. Variable nam
 {{ book["bar"] }}
 ```
 
-If a value is undefined, nothing is displayed. The following all output nothing if `foo` is undefined: `{{ foo }}`, `{{ foo.bar }}`, `{{ foo.bar.baz }}`.
+If a value is undefined, nothing is displayed. The following all output nothing if `foo` is undefined: `{{ book.foo }}`, `{{ book.foo.bar }}`, `{{ book.foo.bar.baz }}`.
 
 
 #### Context variables
@@ -101,7 +101,7 @@ Let's consider your variables in the `book.json`:
 # Authors
 
 
-{% for author in authors %}
+{% for author in book.authors %}
   - {{ author.name }}
 {% endfor %}
 ```

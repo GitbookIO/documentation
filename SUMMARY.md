@@ -17,6 +17,7 @@
 * [Build](build/README.md)
    * [Update with GIT](build/push.md)
    * [Common Errors](build/errors.md)
+   * [ebook-convert](build/ebookconvert.md)
 * [GitHub Integration](github/README.md)
    * [Transferring content to GitHub](github/transferring_to_github.md)
 * [Styling](styling/README.md)
@@ -43,7 +44,4 @@
    * Extend filters
    * Extend Assets
    * [Hooks](plugins/hooks.md)
-* [API](api/README.md)
-   * [Books](api/books.md)
-   * [OPDS](api/opds.md)
 

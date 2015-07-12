@@ -74,9 +74,9 @@ If `variable` is defined and evaluates to true, "It is true" will be displayed. 
 You can specify alternate conditions with elif and else:
 
 ```
-{% if hungry %}
+{% if book.hungry %}
   I am hungry
-{% elif tired %}
+{% elif book.tired %}
   I am tired
 {% else %}
   I am good!
@@ -103,7 +103,7 @@ Let's consider your variables in the `book.json`:
 # Authors
 
 
-{% for author in authors %}
+{% for author in book.authors %}
   - {{ author.name }}
 {% endfor %}
 ```

@@ -1,0 +1,10 @@
+{
+    "gitbook": "2.x.x",
+    "plugins": [],
+    "links": {
+        "sidebar": {
+            "联系我们 / 支持": "https://www.gitbook.com/contact"
+        }
+    },
+    "pluginsConfig": {}
+}

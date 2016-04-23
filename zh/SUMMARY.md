@@ -1,7 +1,7 @@
 # Summary
 
 * [介绍](README.md)
-* [Format](format/README.md)
+* [格式](format/README.md)
    * [Output](format/output.md)
    * [Readme and Introduction](format/introduction.md)
    * [Chapters and Subchapters](format/chapters.md)
@@ -17,7 +17,7 @@
    * [Plugins](format/plugins.md)
    * [Styling](styling/book.md)
    * [Math & TeX](format/math.md)
-* [Build](build/README.md)
+* [构建](build/README.md)
    * [Update with GIT](build/push.md)
    * [Common Errors](build/errors.md)
    * [ebook-convert](build/ebookconvert.md)

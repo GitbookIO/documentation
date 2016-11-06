@@ -8,7 +8,7 @@ Every person who uses GitBook has their own user account. These accounts include
 
 * Unlimited public books and collaborators on all plans
 * Personal plans for private books and distribution
-Ability to add unlimited repository collaborators
+* Ability to add unlimited repository collaborators
 
 #### Organizations
 
